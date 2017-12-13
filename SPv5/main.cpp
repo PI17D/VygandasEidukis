@@ -6,7 +6,7 @@
 #include <ctime>
 #include <locale>
 using namespace std;
-
+// :/
 const char *inFile = "zmones.txt";
 ofstream patalpink("vyrai.txt");
 
